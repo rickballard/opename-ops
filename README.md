@@ -65,7 +65,6 @@
       "{0} -> {1} {2}" -f $_, $_.Exception.Response.StatusCode.value__, $_.Exception.Response.Headers.Location
     }
   }
-
 <!-- BEGIN: STATUS -->
 ### Operational Status
 CoDrift Index: n/a% (n/a)
